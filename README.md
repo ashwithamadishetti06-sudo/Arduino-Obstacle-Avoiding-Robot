@@ -25,8 +25,14 @@ This project uses an Arduino to detect obstacles and change the robot's movement
 - Sensor Interfacing
 - Motor Control
 
+## Project Demo
+
+[Watch the robot demonstration](robot_front.jpg.mp4)
+
 ## Author
-Ashwitha Madishetti
+
+**Ashwitha Madishetti**
 
 B.Tech – Electronics and Communication Engineering
+
 Interests: Embedded Systems, Arduino, and Robotics
